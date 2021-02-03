@@ -2,3 +2,4 @@
 mvn clean verify
 
 Automation testing project for Buzznerd
+--
